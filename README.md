@@ -10,6 +10,7 @@ This is a collection of ideas and maybe in time related software.
 It is resonable to asume that it will be easier to get high data throughput in a geographicly small area (short distance) and that direct or close to direct node to node communication over high throughput interconects will be faster than the internet. The small areas can e.g. be Shopping Malls, Comunity senters, Stadiums, Parks and Business buildings. A global standard for these networks would greatly improv their usfullness.
 
 Putting more communication on desentralized networks will be importaint for privacy. But can we still keep people accontable for their network actions? Aggregation of metadata and bulk upload to somthing like openPDS service providers can be done.
+People like [Tim Berners Lee calls for new model for privacy on the web](http://www.telegraph.co.uk/technology/internet/11148584/Tim-Berners-Lee-calls-for-new-model-for-privacy-on-the-web.html).
 
 High throughput interconects will open for close proximity Hardware as a Service (cpHaaS). This will be importaint for wearables like augumented reality glasses. Resource intensiv operations can be offloaded to the cpHaaS and the cpHaaS can be preloaded with area spesific data. We need to standardize how cpHaaS services are broadcasted and described.
 
