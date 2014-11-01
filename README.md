@@ -2,7 +2,7 @@ Gini
 ====
 Gini - Global Interconect is Not Internet
 -----------------------------------------
-Gini is a [mfrellum/seedProject](https://github.com/mfrellum/seedProject/edit/master/README.md).
+Gini is a [mfrellum/seedProject](https://github.com/mfrellum/seedProject).
 
 This is a collection of ideas and maybe in time related software.
 
